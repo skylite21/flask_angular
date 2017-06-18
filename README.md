@@ -2,7 +2,7 @@
 Starter kit for webapp. Backend: flask, frontend: angular4 with ts and webpack
 Mostly based on https://angular.io/guide/webpack#webpack-an-introduction
 
-<img src="screenshot.png" alt="screenshot" style="width:50%;height:50%">
+<img src="screenshot.png" alt="screenshot" style="width:30%;height:30%">
 # Install
 get python3, node, and npm, webpack
 
