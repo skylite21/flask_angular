@@ -2,7 +2,7 @@
 Starter kit for webapp. Backend: flask, frontend: angular4 with ts and webpack
 
 # Install
-get python3, node, and npm. 
+get python3, node, and npm, webpack
 
 # Setup
 get a virtualenv and do 
@@ -16,7 +16,7 @@ npm install
 # To Run
 do 
 ```
-webpack watch
+webpack --watch
 ```
 and 
 ```
