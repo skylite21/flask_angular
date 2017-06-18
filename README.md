@@ -1,8 +1,7 @@
 # flask_angular
 Starter kit for webapp. Backend: flask, frontend: angular4 with ts and webpack
 Mostly based on https://angular.io/guide/webpack#webpack-an-introduction
-
-![running app screenshot](https://www.dropbox.com/s/p2hfldfe58l98t4/angular_screenshot.png?dl=0)
+![Screenshot](screenshot.png)
 
 # Install
 get python3, node, and npm, webpack
