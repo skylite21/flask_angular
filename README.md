@@ -6,7 +6,7 @@ Mostly based on https://angular.io/guide/webpack#webpack-an-introduction
 
 
 # Install
-get python3, node, and npm, webpack
+get python3, node, and npm
 
 # Setup
 get a virtualenv and do 
@@ -20,7 +20,7 @@ npm install
 # To Run
 do 
 ```
-webpack --watch
+npm run watch
 ```
 and 
 ```
